@@ -1,0 +1,6 @@
+The WashingMachinecontextdiagram depicts the washing machine in the context of building a washing machine with a rfid-reader.The digram shows how the washing machine is connected to the cloud.
+The idea of the washing machine is that it reads tags from every clothing, then sends the data to the cloud, where your it checks for the wash temperature. The cloud stores your information on your clothes 
+and programs. The cloud also uses machine learning to give you better recommendations on washprograms. From the cloud the washing machine receives the recommended information avout the best program. Using the selector rolls
+we can choose the program. the sensor will detect the necessary values.
+
+The WashingMachineBehavioralModelDiagram goes through how the washing machine behaves when the buttons are pushed, the program is ran and the emergencystop is used. 

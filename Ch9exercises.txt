@@ -1,0 +1,21 @@
+24. DFD is valid
+25. DFD is invalid. It is missing a process or actuator before returning to the process.
+26. When the different processes are in need of the same information as the process is giving.
+27. It leaves the issue to the procedural modeling tool. Does not wish to address it.
+28. They have only one package.
+29. The store process is showing the data packets that are in rest.
+30. Stores are named because of the plural of flows going out from store.
+31. It can be named after databases or files. They can also be named after physical storages.
+32. The information packets are named after the store.
+
+37. The flow arrow should not be straight in the first picture.The store should be straight in the second picture. I can not find a flaw in the third picture. There is unneccesary flow in the fourth picture. The names are missing from the flows int the fifth picture.
+38. There are four ways of retrieving the packets. Flow retrieves information on one or several customers. Flow retrieves a part of the customer(information), flow retrieves several parts of customer(informatio), flow takes full packets of one or several customers
+39. The customer records are stored. It takes it from the store when the data is needed.
+40. For example, if the customers information is necessary, it would take for example the contact information, such as the telephone number.
+41. If the process needs to see all of the customer information in a certain area.
+42. The first one is correct. The second one seems to be correct, but I am a bit unsure about it. I can not tell anything about the third one as it doen not even have a store name.
+
+57. If there is Too many processes,flows and stores. Also poor naming and arrangement.
+58. There could be different diagrams, but the alterations are however minor.
+59. Simpler is usually better in diagrams. Simpler to build and simpler to understand.
+60.The more understandable it is the better. If somebody who does not know much about it can understand it and build on the idea it is good. It also does not have too many processes, flows and stores.
